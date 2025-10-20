@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Godot_Engine-v4.x-478CBF?style=for-the-badge&logo=godot-engine" alt="Godot Engine">
-  <img src="https://img.shields.io/github/license/[USERNAME_GITHUB_ANDA]/[NAMA_REPO_ANDA]?style=for-the-badge&color=B22222" alt="License">
+  <img src="https://img.shields.io/github/license/[Muhammad-Zacky]/[https://github.com/Muhammad-Zacky/hackathonGD-versioncontrol.git]?style=for-the-badge&color=B22222" alt="License">
 
 </div>
 
