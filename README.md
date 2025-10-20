@@ -2,7 +2,7 @@
 
   <img src="[LINK_BANNER_GAME_ANDA]" alt="Game Banner">
 
-  # 🚀 [NAMA GAME ANDA] 🚀
+  # 🚀 NULL 🚀
 
   ### *[TULIS TAGLINE ATAU DESKRIPSI SINGKAT GAME DI SINI]*
 
@@ -27,7 +27,7 @@
 
 ## 📖 Tentang Game
 
-[Jelaskan game Anda di sini. Apa ceritanya? Apa tujuan pemain? Buat 2-3 kalimat yang menjelaskan konsep unik dari game Anda. Ceritakan apa yang membuatnya seru dan berbeda.]
+[NULL]
 
 ---
 
